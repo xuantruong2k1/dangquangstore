@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangQuangStore.Service", "DangQuangStore.Service\DangQuangStore.Service\DangQuangStore.Service.csproj", "{E5B45423-0478-4DA1-8604-72EE3D710808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangQuangStore.Model", "DangQuangStore.Model\DangQuangStore.Model.csproj", "{C7646B2E-F443-4122-82CE-37232F8797C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangQuangStore.Data", "DangQuangStore.Data\DangQuangStore.Data\DangQuangStore.Data.csproj", "{AC5AA7AA-B98F-476B-A897-92062D986536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangQuangStore.Common", "DangQuangStore.Common\DangQuangStore.Common\DangQuangStore.Common.csproj", "{BE9563BB-8D4A-4748-B1DA-CA4D90F20C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangQuangStore.UnitTest", "DangQuangStore.UnitTest\DangQuangStore.UnitTest.csproj", "{0B433677-4B19-44C2-8F88-A9BE1A5B87CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangQuangStore.Web", "DangQuangStore.Web\DangQuangStore.Web.csproj", "{F32BC117-E4A3-4DC5-A26A-778BEBBB3CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B45423-0478-4DA1-8604-72EE3D710808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B45423-0478-4DA1-8604-72EE3D710808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B45423-0478-4DA1-8604-72EE3D710808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B45423-0478-4DA1-8604-72EE3D710808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7646B2E-F443-4122-82CE-37232F8797C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7646B2E-F443-4122-82CE-37232F8797C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7646B2E-F443-4122-82CE-37232F8797C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7646B2E-F443-4122-82CE-37232F8797C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5AA7AA-B98F-476B-A897-92062D986536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5AA7AA-B98F-476B-A897-92062D986536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5AA7AA-B98F-476B-A897-92062D986536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5AA7AA-B98F-476B-A897-92062D986536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9563BB-8D4A-4748-B1DA-CA4D90F20C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9563BB-8D4A-4748-B1DA-CA4D90F20C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9563BB-8D4A-4748-B1DA-CA4D90F20C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9563BB-8D4A-4748-B1DA-CA4D90F20C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B433677-4B19-44C2-8F88-A9BE1A5B87CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B433677-4B19-44C2-8F88-A9BE1A5B87CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B433677-4B19-44C2-8F88-A9BE1A5B87CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B433677-4B19-44C2-8F88-A9BE1A5B87CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32BC117-E4A3-4DC5-A26A-778BEBBB3CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32BC117-E4A3-4DC5-A26A-778BEBBB3CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32BC117-E4A3-4DC5-A26A-778BEBBB3CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32BC117-E4A3-4DC5-A26A-778BEBBB3CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6517CF6-E3E1-42C0-862F-5436584CB05E}
+	EndGlobalSection
+EndGlobal
